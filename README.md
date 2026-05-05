@@ -8,11 +8,7 @@ Build an end-to-end disease prediction system using a real dataset, train a mach
 
 ## Dataset
 
-Use the Kaggle dataset referenced in the assignment:
 
-https://www.kaggle.com/datasets/algozee/healthcare-disease-prediction-dataset
-
-Place the CSV file in the project root as `dataset.csv`, or run training with a custom path.
 
 ## Project Structure
 
